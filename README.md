@@ -8,7 +8,7 @@ fin.py runs and puts together the results of the following files:
 2. plot_fin.py - creates image files of charts
 3. email_fin.py - sends email with embedded charts and other analytics
 
-A copy of the resulting email as of 5/29 is also included as fin_email.pdf.
+A copy of the resulting email as of 5/29 is also included as FinDailyMetrics.pdf.
 
 
 ##PostGres
